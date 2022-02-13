@@ -18,12 +18,12 @@ abstract: "Avec l’analyse du jeu « Opposition radioactive » portant sur les
   enquête. "
 draft: false
 featured: false
+url_pdf: https://hal.univ-lorraine.fr/hal-01497630/document
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 date: 2017-03-24T20:22:00.000Z
 ---
-[Télécharger le PDF](https://hal.univ-lorraine.fr/hal-01497630/document)
 
 Colloque organisé par le GIS Journalisme, groupement des laboratoires CARISM (IFP – Université Panthéon-Assas); CRAPE Arènes (CNRS – Universités de Rennes – IEP – EHESP); ELICO (Université de Lyon); GRIPIC (CELSA – Université Paris Sorbonne)
