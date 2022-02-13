@@ -13,7 +13,7 @@ social:
     icon_pack: fab
     link: https://github.com/vtcarlino
   - icon: hal
-    icon_pack: fab
+    icon_pack: ai
     link: https://cv.archives-ouvertes.fr/vincent-carlino
 organizations:
   - name: UCO Nantes
