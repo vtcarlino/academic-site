@@ -28,7 +28,7 @@ abstract: Cet article offre un retour d’expérience d’une recherche appliqu�
   réalisées sur les données, mais également la nécessité que les usagers
   disposent d’une culture numérique minimale pour produire des contenus
   éditoriaux fondés sur l'exploitation des traces numériques.
-url_source: "http://intelligibilite-numerique.numerev.com/numeros/n-2-2021/2620-naviguer-dans-les-traces-numeriques-sur-twitter-retour-sur-la-conception-d-un-dispositif-de-cartographie-de-donnees-a-destination-de-journalistes"
+url_pdf: "http://intelligibilite-numerique.numerev.com/numeros/n-2-2021/2620-naviguer-dans-les-traces-numeriques-sur-twitter-retour-sur-la-conception-d-un-dispositif-de-cartographie-de-donnees-a-destination-de-journalistes"
 draft: false
 featured: false
 image:
