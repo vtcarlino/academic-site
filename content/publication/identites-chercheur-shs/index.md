@@ -4,7 +4,7 @@
 title: "Crédibilité du travail scientifique et identité numérique du chercheur. L’intentionnalité en question"
 authors:
 - admin
-date: 2022-02-13T15:05:26+01:00
+date: 2021-02-13T15:05:26+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
