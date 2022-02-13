@@ -22,28 +22,45 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+
+  - title: Maître de conférences
+    company: Université catholique de l'Ouest
+    location: Nantes, France
+    company_url: 'https://nantes.uco.fr/'
+    date_start: '2021-08-23'
     date_end: ''
+
+  - title: Chercheur post-doctorant
+    company: Université de Neuchâtel
+    location: Neuchâtel, Switzerland
+    company_url: 'https://www.unine.ch/ajm'
+    date_start: '2019-09-01'
+    date_end: '2021-08-01'
     description: |2-
-        Responsibilities include:
+    
+        * Participation à des projets de recherche appliquée en journalisme numérique
+        * Appui pédagogique au Master Création de contenus et communication d'intérêt général
+        * Actions d'éducation aux médias
+
+  - title: Attaché temporaire d'enseignement et de recherche
+    company: Université de La Réunion
+    location: Saint-Denis, Reunion Island
+    company_url: 'https://ufr-lsh.univ-reunion.fr/'
+    date_start: '2017-09-01'
+    date_end: '2019-09-01'
+    description: |2-
+    
+        * Service d'enseignement de 192 / année, de la L1 au M1
+        * Participation aux séminaires du LCF
+        * Encadrement des mémoires d'étudiants de Master
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Doctorant contractuel chargé d'enseignement
+    company: Université de Lorraine
+    company_url: 'https://crem.univ-lorraine.fr/'
+    location: Metz, France
+    date_start: '2014-09-01'
+    date_end: '2017-12-31'
+    description: Préparation d'une thèse de doctorat en SIC sous la direction des Prs Jacques Walter (UL) et Marc Lits (UCLouvain)
 
 design:
   columns: '2'
