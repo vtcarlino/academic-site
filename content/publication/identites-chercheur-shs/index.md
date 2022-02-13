@@ -1,8 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Identites Chercheur Shs"
-authors: []
+title: "Crédibilité du travail scientifique et identité numérique du chercheur. L’intentionnalité en question"
+authors:
+- admin
 date: 2022-02-13T15:05:26+01:00
 doi: ""
 
@@ -13,10 +14,10 @@ publishDate: 2022-02-13T15:05:26+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Identités du chercheur et narrations en sciences humaines et sociales"
 publication_short: ""
 
 abstract: ""
@@ -24,7 +25,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [traces numériques, engagement]
 categories: []
 featured: false
 
@@ -42,7 +43,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://www.lcdpu.fr/livre/?GCOI=27000100304040
 url_video:
 
 # Featured image
