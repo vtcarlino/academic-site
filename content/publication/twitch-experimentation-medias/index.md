@@ -2,8 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Twitch, nouveau terrain d’expérimentation des médias d’information"
-authors: []
-date: 2022-02-13T14:53:49+01:00
+authors:
+- admin
+date: 2021-02-13T14:53:49+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
