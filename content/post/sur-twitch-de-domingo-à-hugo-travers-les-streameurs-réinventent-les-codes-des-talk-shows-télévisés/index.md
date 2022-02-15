@@ -5,6 +5,8 @@ subtitle: "Interview pour Le Monde Pixels "
 date: 2022-01-14T20:38:25.525Z
 draft: false
 featured: false
+categories:
+  - interview
 image:
   filename: ""
   focal_point: Smart
