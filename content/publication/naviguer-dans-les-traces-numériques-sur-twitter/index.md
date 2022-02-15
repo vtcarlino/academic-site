@@ -1,4 +1,17 @@
 ---
+abstract: Cet article offre un retour d’expérience d’une recherche appliquée
+  pluridisciplinaire pour concevoir un outil d’exploration et de cartographie de
+  données issues de Twitter à destination des journalistes. L’approche
+  privilégie l’observation et la compréhension des usages des journalistes et
+  une projection d’intégration du logiciel dans leurs pratiques et les routines
+  quotidiennes. Trois scénarios d’usages sont développés, rendant compte d’une
+  diversité d’appropriation de l’outil. Ils soulignent l’intérêt de penser une
+  interface favorisant la compréhension par l’utilisateur des opérations
+  réalisées sur les données, mais également la nécessité que les usagers
+  disposent d’une culture numérique minimale pour produire des contenus
+  éditoriaux fondés sur l'exploitation des traces numériques.
+draft: false
+url_pdf: http://intelligibilite-numerique.numerev.com/numeros/n-2-2021/2620-naviguer-dans-les-traces-numeriques-sur-twitter-retour-sur-la-conception-d-un-dispositif-de-cartographie-de-donnees-a-destination-de-journalistes
 title: Naviguer dans les traces numériques sur Twitter. Retour sur la conception
   d’un dispositif de cartographie de données à destination de journalistes
 subtitle: ""
@@ -17,22 +30,9 @@ author_notes:
   - UiT Machine Learning Group UiT The Arctic University of Norway
   - EPFL LTS2
 publication: Intelligibilité du numérique
-abstract: Cet article offre un retour d’expérience d’une recherche appliquée
-  pluridisciplinaire pour concevoir un outil d’exploration et de cartographie de
-  données issues de Twitter à destination des journalistes. L’approche
-  privilégie l’observation et la compréhension des usages des journalistes et
-  une projection d’intégration du logiciel dans leurs pratiques et les routines
-  quotidiennes. Trois scénarios d’usages sont développés, rendant compte d’une
-  diversité d’appropriation de l’outil. Ils soulignent l’intérêt de penser une
-  interface favorisant la compréhension par l’utilisateur des opérations
-  réalisées sur les données, mais également la nécessité que les usagers
-  disposent d’une culture numérique minimale pour produire des contenus
-  éditoriaux fondés sur l'exploitation des traces numériques.
-url_pdf: "http://intelligibilite-numerique.numerev.com/numeros/n-2-2021/2620-naviguer-dans-les-traces-numeriques-sur-twitter-retour-sur-la-conception-d-un-dispositif-de-cartographie-de-donnees-a-destination-de-journalistes"
-draft: false
-featured: false
+featured: true
 image:
-  filename: https://www.numerev.com/img/ck_6_17_image-20211003183025-2.jpeg
+  filename: http://intelligibilite-numerique.numerev.com/images/logo-revue-intelligibilite-numerique1.png
   focal_point: Smart
   preview_only: false
 date: 2021-12-20T10:48:55.419Z
