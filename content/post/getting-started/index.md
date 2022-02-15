@@ -3,13 +3,14 @@ summary: ""
 draft: false
 authors:
   - admin
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 title: Colloque international sur le (cyber)harcèlement (CICY)
 subtitle: Approches critiques et interdisciplinaires des phénomènes de violence en ligne
 date: 2022-02-15T20:25:45.953Z
 featured: false
 tags: []
-categories: []
+categories:
+  - colloque
 projects: []
 image:
   caption: ""
