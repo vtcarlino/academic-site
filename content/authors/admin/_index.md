@@ -1,4 +1,5 @@
 ---
+title: Vincent Carlino
 role: Enseignant-chercheur en sciences de l'information et de la communication
 bio: ""
 interests: []
@@ -23,11 +24,10 @@ education:
     - course: Doctorat en Sciences de l'information et de la communication
       institution: Université de Lorraine, UCLouvain
       year: 2018
+email: ""
 superuser: true
 highlight_name: true
-title: Vincent Carlino
-email: ""
 ---
 Maître de conférences à l'[Université catholique de l’Ouest](https://www.uco.fr/), mes travaux portent sur les pratiques de communication dans les controverses environnementales, les plateformes numériques et les “fake news”.
 
-Chercheur titulaire au [Centre Humanités et Sociétés](https://recherche.uco.fr/equipe/chus) et membre associé du [centre de recherche sur les médiations](https://recherche.uco.fr/equipe/chus)
+Chercheur titulaire au [Centre Humanités et Sociétés](https://recherche.uco.fr/equipe/chus) et membre associé du [Centre de recherche sur les médiations](https://recherche.uco.fr/equipe/chus)
