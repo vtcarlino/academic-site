@@ -10,7 +10,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Avec :
+Table ronde organisée par le [GIS Journalisme](https://carism.u-paris2.fr/fr/recherche/programmes-de-recherche/gis-journalisme), avec :
 
 - [François Allard-Huver](https://allardhuver.fr/)
 - [Pauline Amiel](https://ejcam.univ-amu.fr/fr/pauline-amiel)
